@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Mathenriques/runalytics-backend-nest/tree/master" target="blank"><img src="https://drive.google.com/file/d/1apTuaawgL0iqi7CIyOcfksWSBn_u_WFX/view?usp=sharing" width="200" alt="RunAlytics Logo" /></a>
+  <a href="https://github.com/Mathenriques/runalytics-backend-nest/tree/master" target="blank"><img src="https://drive.google.com/file/d/1apTuaawgL0iqi7CIyOcfksWSBn_u_WFX/view" width="200" alt="RunAlytics Logo" /></a>
 </p>
 
 [circleci-image]: https://drive.google.com/file/d/1eZLDCd_rVG5QyHDMwZ-hvtP_bauwegX2/view?usp=sharing
